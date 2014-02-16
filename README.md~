@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 Pokemon-Showdown-Viability
 ===========================
 
@@ -230,3 +231,9 @@ Contributors
 - Robin Vandenbrande [Quinella] - Development
 - Samuel Teo [Yilx] - Art (main background)
 - Vivian Zou [Vtas] - Art (alternate main background)
+=======
+Pokemon-Showdown-Mod
+====================
+
+My full mod of Showdown
+>>>>>>> 8e2dfa96b59304e67395e7526badb3f8dd96f75d
