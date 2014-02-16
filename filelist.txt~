@@ -6,7 +6,6 @@ commands.js
 data/abilities.js
 data/aliases.js
 data/formats-data.js
-data/viabilityranks.js
 data/formats.js
 data/items.js
 data/learnsets.js

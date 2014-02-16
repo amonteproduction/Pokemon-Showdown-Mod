@@ -169,9 +169,6 @@ module.exports = (function () {
 			if (this.data.FormatsData[id]) {
 				Object.merge(template, this.data.FormatsData[id]);
 			}
-			if (this.data.ViabilityRanks[id]) {
-				Object.merge(template, this.data.ViabilityRanks[id]);
-			}
 			if (this.data.Learnsets[id]) {
 				Object.merge(template, this.data.Learnsets[id]);
 			}

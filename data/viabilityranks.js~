@@ -1,4 +1,4 @@
-exports.BattleViabilityRanks = {
+exports.BattleFormatsData = {
 	bulbasaur: {
 		viabilitytier: "C"
 	},
